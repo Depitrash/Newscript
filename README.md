@@ -1,0 +1,2 @@
+# Newscript
+Percobaan sebagai pemula
